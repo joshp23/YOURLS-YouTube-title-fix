@@ -15,3 +15,7 @@ YouTube titles are broken in YOURLS, only displaying a naked url. This can be co
 
 ### Note
 - Use with [Title Refetch](https://github.com/joshp23/YOURLS-title-refetch) to fix broken YouTube titles that already exist in the YOURLS database
+
+License
+-------
+Copyright 2020 Joshua Panter  
