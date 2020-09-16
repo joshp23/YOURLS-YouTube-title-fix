@@ -10,8 +10,8 @@ YouTube titles are broken in YOURLS, only displaying a naked url. This can be co
 
 ### Installation
 - Download this repo and place `youtube-title-fix` into `user/plugins/`
-- set `define( 'YOUTUBE_TITLE_FIX_API_KEY', 'YOUR-API-KEY' );` in `user/config.php`
 - Enable the plugin in the admin area of YOURLS
+- Set API key in YouTube API Admin page
 
 ### Note
 - Limit the API key credential to the IP address of your YOURLS server to avoid abuse. Other limiting methods seemed to result in failure.
