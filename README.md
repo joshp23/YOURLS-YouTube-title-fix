@@ -17,6 +17,9 @@ YouTube titles are broken in YOURLS, only displaying a naked url. This can be co
 - Limit the API key credential to the IP address of your YOURLS server to avoid abuse. Other limiting methods seemed to result in failure.
 - Use with [Title Refetch](https://github.com/joshp23/YOURLS-title-refetch) to fix broken YouTube titles that already exist in the YOURLS database
 
+### Tips
+Dogecoin: DARhgg9q3HAWYZuN95DKnFonADrSWUimy3
+
 License
 -------
 Copyright 2020 Joshua Panter  
